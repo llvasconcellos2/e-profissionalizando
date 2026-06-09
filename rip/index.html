@@ -28,63 +28,6 @@
 		#menu .columns2 { width: 500px; }
 		#menu .columns3 { width: 750px; }
 		#menu .columns4 { width: 1000px; }
-		.row {
-			display: flex;
-			gap: 6px;
-		}
-		.yoo-zoo .category {
-			padding: 10px;
-		}
-		.yoo-zoo .items .row {
-			display: flex;
-			gap: 6px;
-		}
-		.yoo-zoo .items .row .width25 {
-			width: auto;
-		}
-		.yoo-zoo .items .row .width25 .teaser-item {
-			display: flex;
-			flex-direction: column;
-			gap: 6px;
-			padding: 6px;
-			background: #8080803b;
-			min-height: 390px;
-		}
-		.yoo-zoo .items .row .width25 .teaser-item .pos-media {
-			width: 150px;
-			height: 200px;
-			overflow: hidden;
-		}
-		.yoo-zoo .items .row .width25 .teaser-item .pos-media a,
-		.yoo-zoo .items .row .width25 .teaser-item .pos-media img {
-				display: block;
-				width: 100%;
-				height: 100%;
-		}
-
-		.yoo-zoo .items .row .width25 .teaser-item .pos-media img {
-				object-fit: cover; /* Fills the area without distorting the aspect ratio */
-				object-position: center; /* Centers the image content */
-		}
-		.yoo-zoo .items .row .width25 .teaser-item .pos-description {
-			min-height: 56px;
-			padding: 0px 10px;
-		}
-		.yoo-zoo .items .row .width25 .teaser-item .pos-links {
-			min-height: 56px;
-			display: flex;
-			flex-direction: column;
-			font-size: 0px;
-			margin-top: -18px !important;
-		}
-		.yoo-zoo .items .row .width25 .teaser-item .pos-links span{
-			font-size: 12px;
-			order: 1;
-		}
-		.yoo-zoo .items .row .width25 .teaser-item h2.pos-title {
-			font-size: 12px !important;
-			min-height: 56px;
-		}
   </style>
   <script type="text/javascript" src="media/system/js/mootools.js"></script>
   <script type="text/javascript" src="templates/eprof/warp/systems/joomla.1.5/js/warp.js"></script>
@@ -135,7 +78,7 @@ pageTracker._trackPageview();
 				</div>
 				
 				<div class="header-1">
-					<img style="position:absolute;margin-left:-140px; margin-top:-15px" src="images/logo3.gif" />
+					<img style="position:absolute;margin-left:-140px; margin-top:-15px" src="images/logo2.jpg" />
 					<div id="toolbar">
 					
 												<div class="left">
@@ -167,9 +110,7 @@ pageTracker._trackPageview();
 	<div id="yoo-search-1" class="yoo-search">
 	
 		<form action="index.php" method="post">
-			<div class="searchbox" style="
-    width: 130px;
-">
+			<div class="searchbox">
 				<button class="search-magnifier" type="submit" value="Search"></button>
 				<input class="searchfield" type="text" onfocus="if(this.value=='busca...') this.value='';" onblur="if(this.value=='') this.value='busca...';" value="busca..." size="20" alt="busca..." maxlength="20" name="searchword" />
 				<button class="search-close" type="reset" value="Reset"></button>
