@@ -18,8 +18,7 @@
   <br />
 
   <a href="https://leonardo-vasconcellos.vercel.app/portfolio/e-profissionalizando"
-    ><strong>View it live »</strong></a
-  >
+    ><strong>View it live »</strong></a>
 </div>
 
 <br />
