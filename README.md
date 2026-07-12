@@ -68,13 +68,13 @@ The platform was built by the same team behind **INGLESCURSO**, then the most po
 
 Every course on E-Profissionalizando — whether developed in-house or by partner institutions — carried legal standing recognised across the entire Brazilian territory. Certificates were mailed to students anywhere in Brazil at no additional cost, removing the last practical barrier for learners in remote states and smaller cities where traditional vocational schools simply did not exist.
 
-**Key achievements:**
-
-- Built the e-commerce and checkout flow for online course purchases
-- Integrated a nationally-recognized certificate delivery system
-- Scaled to serve students across all 26 states of Brazil
-
 The platform spanned dozens of course categories — health, social services, business, technology, and more — and operated as a marketplace for partner institutions alongside its own catalogue. At its peak, E-Profissionalizando was one of the most visited destinations for affordable professional certification in Brazil.
+
+### Key Features
+
+- **E-commerce checkout flow** — built the purchase pipeline for online courses, letting the business turn nationwide demand for professional certification into direct, self-serve revenue.
+- **Nationally-recognized certificate delivery** — integrated a certification and mailing system so every completed course carried legal standing anywhere in Brazil, removing a key trust barrier to conversion.
+- **Multi-state scale** — architected the platform to serve students across all 26 Brazilian states, extending the business's reach into regions with no local vocational schools.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
