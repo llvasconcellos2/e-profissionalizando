@@ -17,8 +17,9 @@
 
   <br />
 
-  <a href="https://webarchive.leonardolimadevasconcellos.workers.dev/e-profissionalizando"
+<a href="https://webarchive.leonardolimadevasconcellos.workers.dev/e-profissionalizando"
     ><strong>View it live »</strong></a>
+
 </div>
 
 <br />
@@ -100,21 +101,21 @@ The platform spanned dozens of course categories — health, social services, bu
 
 **Languages**
 
-|                                                                                                              | Language   | Version |
-| ------------------------------------------------------------------------------------------------------------ | ---------- | ------- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" />             | PHP        | 5.x     |
+|                                                                                                                | Language   | Version |
+| -------------------------------------------------------------------------------------------------------------- | ---------- | ------- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20" />               | PHP        | 5.x     |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" /> | JavaScript | ES3     |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" />         | HTML       | 5       |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" />           | CSS        | 3       |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" />           | HTML       | 5       |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" />             | CSS        | 3       |
 
 <!-- FRAMEWORKS & LIBRARIES -->
 
 **Frameworks & Libraries**
 
-|                                                                                                                | Framework | Version |
-| -------------------------------------------------------------------------------------------------------------- | --------- | ------- |
-| <img src="https://devicons.io/devicons/icons/joomla.svg" width="20" />         | Joomla    | 1.5.20  |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" /> | MySQL      | —       |
+|                                                                                                      | Framework | Version |
+| ---------------------------------------------------------------------------------------------------- | --------- | ------- |
+| <img src="https://devicons.io/devicons/icons/joomla.svg" width="20" />                               | Joomla    | 1.5.20  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" /> | MySQL     | —       |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
